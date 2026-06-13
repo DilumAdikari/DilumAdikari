@@ -17,23 +17,26 @@
 ## 🧑‍💻 About Me
 
 
-Full-Stack Developer | IT Assistant @ Elisha Clothing | BIT Undergraduate @ University of Moratuwa
+Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
+
+---
+
 
 ## 🛠️ Tech Stack & Tooling
 
-### 🌐 Languages & Frameworks
+###  Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,csharp,dotnet,python,html,css,tailwind,bootstrap,mysql,git&perline=8" width="100%" />
 </p>
 
-### 📊 Data, Analytics & Design Tools
+###  Data, Analytics & Design Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,figma,unity&perline=5" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics & Activity
+##  GitHub  Activitys
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilumadikari610-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="32%" alt="Top Languages" />
@@ -43,7 +46,7 @@ Full-Stack Developer | IT Assistant @ Elisha Clothing | BIT Undergraduate @ Univ
 
 <br/>
 
-### 📈 Coding History (Activity Graph)
+###  Coding History (Activity Graph)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilumadikari610-coder&theme=react-dark" width="100%" alt="Contribution Graph" />
 </p>
