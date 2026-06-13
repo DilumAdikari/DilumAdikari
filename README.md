@@ -30,3 +30,20 @@ Full-Stack Developer | IT Assistant @ Elisha Clothing | BIT Undergraduate @ Univ
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,figma,unity&perline=5" />
 </p>
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilumadikari610-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="32%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilumadikari610-coder&show_icons=true&locale=en&theme=tokyonight" width="32%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilumadikari610-coder&theme=tokyonight" width="32%" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+### 📈 Coding History (Activity Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilumadikari610-coder&theme=react-dark" width="100%" alt="Contribution Graph" />
+</p>
