@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Dilum%20Adikari%20👋&fontSize=50&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&animation=twinkling" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Dilum+Adikari+👋;Full-Stack+Developer;IT+Assistant;BIT+Undergraduate" alt="Typing Effect" />
+  </a>
 </p>
 
 <p align="center">
@@ -9,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilumadikari610-coder&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DilumAdikari&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -39,14 +45,14 @@ Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
 ##  GitHub  Activitys
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilumadikari610-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="32%" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dilumadikari610-coder&show_icons=true&locale=en&theme=tokyonight" width="32%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilumadikari610-coder&theme=tokyonight" width="32%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DilumAdikari&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="32%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DilumAdikari&show_icons=true&locale=en&theme=tokyonight" width="32%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilumAdikari&theme=tokyonight" width="32%" alt="GitHub Streak" />
 </p>
 
 <br/>
 
 ###  Coding History (Activity Graph)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilumadikari610-coder&theme=react-dark" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilumAdikari&theme=react-dark" width="100%" alt="Contribution Graph" />
 </p>
