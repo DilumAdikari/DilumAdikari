@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=500&duration=1800&color=00FF66&center=true&vCenter=true&width=650&lines=💻+DILUM+ADIKARI;🔒+CYBER+SECURITY;⚡+FULL-STACK;🔑+DEVELOPMENT" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=500&duration=1800&color=00FF66&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+DILUM+ADIKARI;%F0%9F%94%92+CYBER+SECURITY;%E2%9A%A1+FULL-STACK;%F0%9F%93%91+DEVELOPMENT" alt="Typing Effect" />
   </a>
 </p>
 
