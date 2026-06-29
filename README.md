@@ -65,3 +65,10 @@ Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=DilumAdikari&theme=tokyonight&no-bg=false&margin-w=15" width="100%" alt="GitHub Trophies" />
 </p>
+
+<br/>
+
+### 📈 Coding History (Activity Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilumAdikari&theme=github" width="100%" alt="Contribution Graph" />
+</p>
