@@ -61,7 +61,7 @@ Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
 
 <br/>
 
-### 📐 Coding History (Real 3D Isometric View)
+### 📐 Coding History (3D View)
 <p align="center">
-  <img src="https://github-isometric-copy.vercel.app/api?user=DilumAdikari&theme=dark" width="100%" alt="3D Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilumAdikari&theme=3d" width="100%" alt="3D Contribution Graph" />
 </p>
