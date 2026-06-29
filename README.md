@@ -43,8 +43,16 @@ Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DilumAdikari&theme=tokyonight" height="195" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilumAdikari&theme=tokyonight" height="195" alt="GitHub Stats" />
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="padding: 5px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DilumAdikari&theme=tokyonight" height="195" alt="Top Languages" />
+      </td>
+      <td align="center" style="padding: 5px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilumAdikari&theme=tokyonight" height="195" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
@@ -53,7 +61,7 @@ Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
 
 <br/>
 
-### 📈 Coding History (Activity Graph)
+### 📊 Coding History (Activity Graph)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilumAdikari&theme=react-dark" width="100%" alt="Contribution Graph" />
 </p>
