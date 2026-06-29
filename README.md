@@ -43,16 +43,8 @@ Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
 ## 📊 GitHub Activity
 
 <p align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DilumAdikari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DilumAdikari&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="195" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DilumAdikari&theme=tokyonight" height="195" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilumAdikari&theme=tokyonight" height="195" alt="GitHub Stats" />
 </p>
 
 <p align="center">
