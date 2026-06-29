@@ -22,37 +22,46 @@
 
 ## 🧑‍💻 About Me
 
-
 Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
 
 ---
 
-
 ## 🛠️ Tech Stack & Tooling
 
-###  Languages & Frameworks
+### 💻 Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,csharp,dotnet,python,html,css,tailwind,bootstrap,mysql,git&perline=8" width="100%" />
 </p>
 
-###  Data, Analytics & Design Tools
+### 📊 Data, Analytics & Design Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,figma,unity&perline=5" />
 </p>
 
 ---
 
-##  GitHub  Activitys
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DilumAdikari&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="32%" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DilumAdikari&show_icons=true&locale=en&theme=tokyonight" width="32%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilumAdikari&theme=tokyonight" width="32%" alt="GitHub Streak" />
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DilumAdikari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=DilumAdikari&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="195" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilumAdikari&theme=tokyonight" alt="GitHub Streak" width="65%" />
 </p>
 
 <br/>
 
-###  Coding History (Activity Graph)
+### 📈 Coding History (Activity Graph)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilumAdikari&theme=react-dark" width="100%" alt="Contribution Graph" />
 </p>
