@@ -30,7 +30,7 @@ Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,cs,java,dotnet,python,html,css,tailwind,bootstrap,mysql,angular&perline=12" width="100%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,cs,java,dotnet,python,html,css,tailwind,bootstrap,mysql,angular,docker,aws&perline=12" width="100%" />
 </p>
 
 ### 📊 Data, Analytics & Design Tools
@@ -40,7 +40,7 @@ Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
 
 ### 🧰 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity&perline=12" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,visualstudio,vercel&perline=12" />
 </p>
 
 ---
