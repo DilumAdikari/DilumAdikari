@@ -34,7 +34,7 @@ Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
 </p>
 
 ### 📊 Data, Analytics & Design Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,figma&perline=5" />
 </p>
 
