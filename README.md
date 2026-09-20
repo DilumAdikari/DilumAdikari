@@ -33,6 +33,11 @@ Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,cs,java,dotnet,python,html,css,tailwind,bootstrap,mysql,angular&perline=8" width="100%" />
 </p>
 
+## AI Tool
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gemini&perline=8" width="100%" />
+
 ### 📊 Data, Analytics & Design Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,figma&perline=5" />
