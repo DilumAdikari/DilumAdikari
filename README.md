@@ -39,7 +39,7 @@ Full-Stack Developer | IT Assistant | BIT Undergraduate | University of Moratuwa
 </p>
 
 ### 🧰 Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,unity&perline=4" />
 </p>
 
